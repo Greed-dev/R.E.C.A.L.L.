@@ -10,4 +10,5 @@ Why should learning to code be an harder problem than it actually is... is it ga
 - what projects to make;
 - what language to use 
 - etc....  
+
 So, what is the endgame here? My plan is to make a simpler, logistical solution to this issue, with the sole purpose of helping people(me included) to learn how to code.  
